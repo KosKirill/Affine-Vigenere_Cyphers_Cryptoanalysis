@@ -3,6 +3,7 @@
 * QT - 5.12.6
 * C compiler - MinGw 7.3.0 32-bit for C
 * C++ compiler - MinGw 7.3.0 32-bit for C++
+
 This is my student work from cryptography course. This is a QT app with UI, which realises simple Affine and Vigenere encryption, and decryption. However the main part is cryptoanalsis functions.
 ## App functions:
 * Affine encryption
